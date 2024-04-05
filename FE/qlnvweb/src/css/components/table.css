@@ -1,0 +1,132 @@
+table,th,td{
+    border-collapse:collapse ;  
+}
+.p-grid{
+    scrollbar-width:thin;
+    height: calc(100vh - 56px - 36px - 52px - 60px - 56px );
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    overflow: scroll;
+}
+.p-table{
+    width: auto;
+    min-width: 100%;
+    table-layout: fixed; 
+}
+.p-table th, 
+.p-table td{
+    border:1px solid #E0E0E0;
+    padding: 12px;
+    white-space: nowrap; /* Ngăn chặn text wrap */
+    overflow: hidden; 
+}
+.p-table thead {
+    border:1px solid #E0E0E0;
+    z-index: 1;
+}
+.p-table thead th {
+    background-color: #EEEEEE;
+    position: sticky;
+    top: -1px;
+    z-index: 1;
+}
+.p-table__row {
+    border:1px solid #E0E0E0;
+    height: 48px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.p-table__row:hover{
+    background-color: #F2F2F2;
+}
+.p-table__row input{
+    width: 20px;
+    height: 20px; 
+    text-align: center;
+    vertical-align: middle;
+}
+input[type="checkbox"]{
+    -webkit-appearance: none;
+    border: 1px solid #cacece;
+    padding: 8px;
+    border-radius: 3px;
+    display: inline-block;
+    position: relative;
+    top: 50%;
+}
+input[type="checkbox"]:checked{
+    background-color: #019160;
+    border: 1px solid #019160;
+	color: white;
+}
+input[type="checkbox"]:checked::after {
+    display: block;
+	content: '\2714';
+	font-size: 14px;
+	position: absolute;
+	top: -1px;
+	left: 4px;
+}
+.p-footertable{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    border-top: 1px solid #EEEEEE;
+    background-color: #fff;
+    justify-content: space-between;
+    padding: 0px 30px 0px 16px;
+    height: 60px;
+    align-items: center;
+    /* margin:0px 15px; */
+    border-radius: 0px 0px 4px 4px;
+}
+.p-footertable__action--page{
+    /* padding-right: 25px; */
+}
+.p-footertable__action--numbercombobox{
+    width: 80px;
+}
+.p-footertable__action--button,
+.p-footertable__action{
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+}
+
+.p-table__row--button{
+    position: absolute;
+    right:0 ;
+}
+
+.p-table__number{
+    font-size: 14px;
+}
+.p-table__unselect{
+    color: red;
+    padding: 5px 5px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.p-table__unselect:hover{
+    cursor: pointer;
+    background-color: #f5f5f5;
+}
+.p-table__deleteall{
+    font-weight: 600;
+    font-size: 15px;
+}
+.p-table__deleteall i{
+    color: red;
+}
+.selected{
+    background-color: #ccc;
+}
+.money{
+    display: flex;
+    justify-content: end ;
+}

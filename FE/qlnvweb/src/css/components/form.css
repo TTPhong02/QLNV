@@ -1,0 +1,32 @@
+.p-form{
+    background-color: #fff;
+    width: 400px;
+
+}
+.p-form__header{
+    padding:32px 32px;
+    font-family: NotosansBold;
+    font-size: 24px;
+}
+.p-form__control--name {
+    padding:0px 32px 24px 32px;
+}
+
+.p-form__control--gender{
+    padding:0px 32px 12px 32px;
+}
+
+.p-form__control--date{
+    padding: 0px 32px 24px 32px;;
+}
+.p-form__control--email{
+    padding: 0px 32px ;
+}
+
+.p-form__button{
+    padding: 32px 32px;
+    text-align: right;
+}
+.p-form__button--cancel{
+    padding-right: 12px;
+}

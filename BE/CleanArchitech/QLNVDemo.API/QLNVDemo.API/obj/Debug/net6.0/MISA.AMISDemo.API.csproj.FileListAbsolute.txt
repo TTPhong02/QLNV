@@ -1,0 +1,160 @@
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\appsettings.Development.json
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\appsettings.json
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.exe
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.deps.json
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.runtimeconfig.json
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.pdb
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Core.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Core.pdb
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.AssemblyReference.cache
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.AssemblyInfoInputs.cache
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.AssemblyInfo.cs
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.CoreCompileInputs.cache
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.MISA.AMISDemo.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MISA.AMISDemo.API.props
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MISA.AMISDemo.API.props
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MISA.AMISDemo.API.props
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\scopedcss\bundle\MISA.AMISDemo.API.styles.css
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.CopyComplete
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\refint\MISA.AMISDemo.API.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.pdb
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.genruntimeconfig.cache
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\ref\MISA.AMISDemo.API.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Dapper.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\appsettings.Development.json
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\appsettings.json
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.exe
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.deps.json
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.runtimeconfig.json
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.pdb
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Dapper.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Core.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Core.pdb
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.AssemblyReference.cache
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.AssemblyInfoInputs.cache
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.AssemblyInfo.cs
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.CoreCompileInputs.cache
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.MISA.AMISDemo.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MISA.AMISDemo.API.props
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MISA.AMISDemo.API.props
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MISA.AMISDemo.API.props
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\scopedcss\bundle\MISA.AMISDemo.API.styles.css
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.CopyComplete
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\refint\MISA.AMISDemo.API.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.pdb
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.genruntimeconfig.cache
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\ref\MISA.AMISDemo.API.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\AutoMapper.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\EPPlus.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\appsettings.Development.json
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\appsettings.json
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.exe
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.deps.json
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.runtimeconfig.json
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.API.pdb
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\AutoMapper.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Dapper.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\EPPlus.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Core.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Core.pdb
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.AssemblyReference.cache
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.AssemblyInfoInputs.cache
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.AssemblyInfo.cs
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.CoreCompileInputs.cache
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.MISA.AMISDemo.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MISA.AMISDemo.API.props
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MISA.AMISDemo.API.props
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MISA.AMISDemo.API.props
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\scopedcss\bundle\MISA.AMISDemo.API.styles.css
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.csproj.CopyComplete
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\refint\MISA.AMISDemo.API.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.pdb
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\MISA.AMISDemo.API.genruntimeconfig.cache
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\obj\Debug\net6.0\ref\MISA.AMISDemo.API.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

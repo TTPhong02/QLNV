@@ -1,0 +1,45 @@
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.deps.json
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Core.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Core.pdb
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.AssemblyReference.cache
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.AssemblyInfoInputs.cache
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.AssemblyInfo.cs
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.CoreCompileInputs.cache
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.CopyComplete
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\refint\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\Study file\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\ref\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.deps.json
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Core.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Core.pdb
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.AssemblyReference.cache
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.AssemblyInfoInputs.cache
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.AssemblyInfo.cs
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.CoreCompileInputs.cache
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.CopyComplete
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\refint\MISA.AMISDemo.Infractructure.dll
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\Study file\BE_CleanArchitecture\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\ref\MISA.AMISDemo.Infractructure.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.deps.json
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Core.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\bin\Debug\net6.0\MISA.AMISDemo.Core.pdb
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.AssemblyReference.cache
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.AssemblyInfoInputs.cache
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.AssemblyInfo.cs
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.CoreCompileInputs.cache
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.csproj.CopyComplete
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\refint\MISA.AMISDemo.Infractructure.dll
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\MISA.AMISDemo.Infractructure.pdb
+D:\MISA\MISA_BASE\BE\CleanArchitech\MISA.AMISDemo.API\MISA.AMISDemo.Infractructure\obj\Debug\net6.0\ref\MISA.AMISDemo.Infractructure.dll

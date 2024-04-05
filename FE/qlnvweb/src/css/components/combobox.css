@@ -1,0 +1,84 @@
+/*
+input:focus{
+    outline: none;
+}
+input{
+    border: unset;
+    font-size: 14px;
+}
+
+.p-dropmenu {
+}
+.p-dropmenu form{
+    margin: 0 auto;
+}
+
+.p-dropmenu__box{
+    width: 236px;
+    position: relative;
+    margin-top: 8px;
+
+}
+
+.p-dropmenu__box input{
+    border-radius: 4px 0px 0px 4px;
+    height: 36px;
+    width: 188px;
+    border: 1px solid #ccc;
+    padding-left: 12px;
+}
+.p-dropmenu__box--icon {
+    border: 1px solid #ccc;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    background-color: #fff;
+    border-radius: 0px 4px 4px 0px;
+}
+*/
+/*
+.p-dropmenu__drop{
+     display: none;
+    top: 100%;
+    width: 236px; 
+    position: absolute;
+    background-color: #fff;
+    border-radius: 4px;
+    max-height: 200px;
+     border: 1px solid #ccc; 
+    box-shadow:1px 1px 12px 2px #ccc;
+}
+.p-dropmenu__drop--list{
+    max-height: 184px;
+    height: 100%;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+     padding: 8px ; 
+}
+.p-dropmenu__drop--list--item{
+    padding-left: 8px;
+    min-height: 36px;
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+    margin: 8px 8px 8px 8px;
+}
+.p-dropmenu__drop--list--item.selected,
+.p-dropmenu__drop--list--item:hover{
+    background-color: rgba(80,184,60,0.1);
+}
+::-webkit-scrollbar {
+    width: 8px;
+    padding-right: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 6px;
+  }
+*/

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CleanArchitech",
+    "\\CleanArchitech\\MISA.AMISDemo.API",
+    "\\CleanArchitech\\MISA.AMISDemo.API\\MISA.AMISDemo.Core",
+    "\\CleanArchitech\\MISA.AMISDemo.API\\MISA.AMISDemo.Core\\CustomValidation",
+    "\\CleanArchitech\\MISA.AMISDemo.API\\MISA.AMISDemo.Core\\Interfaces",
+    "\\CleanArchitech\\MISA.AMISDemo.API\\MISA.AMISDemo.Core\\Services",
+    "\\CleanArchitech\\MISA.AMISDemo.API\\MISA.AMISDemo.Infractructure",
+    "\\CleanArchitech\\MISA.AMISDemo.API\\MISA.AMISDemo.Infractructure\\UnitOfWork"
+  ],
+  "SelectedNode": "\\CleanArchitech\\MISA.AMISDemo.API\\MISA.AMISDemo.Core\\Services\\EmployeeService.cs",
+  "PreviewInSolutionExplorer": false
+}

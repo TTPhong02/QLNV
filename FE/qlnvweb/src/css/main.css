@@ -1,0 +1,51 @@
+@import url(./components/button.css);
+@import url(./components/combobox.css);
+@import url(./components/input.css);
+@import url(./components/table.css);
+@import url(./components/form.css);
+@import url(./components/dialog.css);
+@import url(./components/message.css);
+@import url(./components/popup.css);
+@import url(./components/sidebar.css);
+@import url(./components/icon.css);
+@font-face {
+    font-family: NotosansBold;
+    src: url(../assets/fonts/notosans-bold.3ede5aff.woff2);
+}
+@font-face {
+    font-family: NotosansItalic;
+    src: url(../assets/fonts/notosans-italic.1c1aaac9.woff2);
+
+}
+@font-face {
+    font-family: Notosans;
+    src: url(../assets/fonts/notosans-regular.2cb88a13.woff2);
+}
+@font-face {
+    font-family: NotosansSemiBold;
+    src: url(../assets/fonts/notosans-semibold.df3e6dc4.woff2);
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Notosans;
+    font-size: 14px;
+    background-color: #F6F6F6;
+}
+.container{
+    width: 1248px;
+    margin: 0 auto;
+}
+.content{
+    margin: 20px 20px;
+    height: 400px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+

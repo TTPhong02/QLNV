@@ -1,0 +1,50 @@
+#p-dialog{
+    z-index: 100;
+}
+.p-dialog{
+    width: 400px;
+    background-color: #fff;
+    box-shadow:  0px 0px 50px 2px #888888;
+    z-index: 1000;
+}
+.p-dialog__header{
+    display: flex;
+    padding:24px 24px;
+    align-items: center;
+    justify-content:space-between;
+}
+.p-dialog__header--title{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.p-dialog__message{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    padding:0px 0px 24px 24px;
+    font-size: 14px;
+}
+.p-dialog__button{
+    display: flex;
+    justify-content: end ;
+    padding: 0px 24px 24px 24px;
+}
+.p-dialog__button--cancel{
+    padding-right: 8px;
+}
+.p-dialog__button--close:hover{
+    filter: brightness(0%);
+}
+.p-dialog__button--close{
+    cursor: pointer;
+}   
+.p-dialog__header--icon{
+    text-align: center;
+    vertical-align: middle;    
+    top:24px;
+    right: 24px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}

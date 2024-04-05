@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MISA.AMISDemo.API",
+    "\\MISA.AMISDemo.API\\MISA.AMISDemo.Core",
+    "\\MISA.AMISDemo.API\\MISA.AMISDemo.Core\\Interfaces"
+  ],
+  "SelectedNode": "\\MISA.AMISDemo.API\\MISA.AMISDemo.Core\\Interfaces\\ICustomerRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
